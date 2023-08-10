@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Screenshot](ss1.png)
+![Tic Tac Toe Screenshot]([ss1.png](https://github.com/arindal1/TicTacToe-Game/blob/main/ss1.png))
 
 ## Table of Contents
 - [Introduction](#introduction)
