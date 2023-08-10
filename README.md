@@ -2,15 +2,6 @@
 
 ![Tic Tac Toe Screenshot](https://github.com/arindal1/TicTacToe-Game/blob/main/ss1.png)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Key Functionalities](#key-functionalities)
-- [How the Tic Tac Toe Game Works](#how-the-tic-tac-toe-game-works)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Tic Tac Toe Game is a simple web-based implementation of the classic Tic Tac Toe game. It allows two players to take turns marking 'X' or 'O' on a 3x3 grid. The game determines the winner based on a line of three identical symbols in a row, column, or diagonal, or declares a draw when the grid is filled without a winner.
