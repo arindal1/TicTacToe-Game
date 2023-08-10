@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](ss1.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
